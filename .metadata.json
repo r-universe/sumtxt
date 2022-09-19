@@ -1,9 +1,5 @@
 [
   {
-    "package": "missDiag",
-    "oncran": true
-  },
-  {
     "package": "wiesbaden",
     "oncran": true
   }
