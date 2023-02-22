@@ -1,5 +1,9 @@
 [
   {
+    "package": "ags",
+    "oncran": true
+  },
+  {
     "package": "missDiag",
     "oncran": true
   },

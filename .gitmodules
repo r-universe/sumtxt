@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ags"]
+	path = ags
+	url = https://github.com/sumtxt/ags
+	shallow = true
+	registered = true
 [submodule "missDiag"]
 	path = missDiag
 	url = https://github.com/sumtxt/missdiag
