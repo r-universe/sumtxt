@@ -1,14 +1,14 @@
 [
   {
+    "package": "wiesbaden",
+    "oncran": true
+  },
+  {
     "package": "ags",
     "oncran": true
   },
   {
     "package": "missDiag",
-    "oncran": true
-  },
-  {
-    "package": "wiesbaden",
     "oncran": true
   }
 ]
