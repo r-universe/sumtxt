@@ -8,6 +8,11 @@
 	url = https://github.com/sumtxt/ags
 	shallow = true
 	registered = true
+[submodule "bonn"]
+	path = bonn
+	url = https://github.com/sumtxt/bonn
+	shallow = true
+	registered = true
 [submodule "missDiag"]
 	path = missDiag
 	url = https://github.com/sumtxt/missdiag
