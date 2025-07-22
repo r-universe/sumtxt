@@ -11,6 +11,3 @@
 [submodule "missDiag"]
 	path = missDiag
 	url = https://github.com/sumtxt/missdiag
-[submodule "wiesbaden"]
-	path = wiesbaden
-	url = https://github.com/sumtxt/wiesbaden
