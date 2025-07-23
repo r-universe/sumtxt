@@ -8,6 +8,9 @@
 [submodule "bonn"]
 	path = bonn
 	url = https://github.com/sumtxt/bonn
+[submodule "ivdesc"]
+	path = ivdesc
+	url = https://github.com/cran/ivdesc
 [submodule "missDiag"]
 	path = missDiag
 	url = https://github.com/sumtxt/missdiag
